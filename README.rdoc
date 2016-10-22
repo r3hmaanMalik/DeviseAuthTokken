@@ -29,5 +29,7 @@ Please feel free to use a different markup language if you do not plan to run
 
 
 *	Devise gem added to gem file 
+
 *	rails generate devise:isntall
+
 *	rails generate User (model)
